@@ -27,24 +27,7 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MyPrototypeWhat&show_icons=true&hide=issues&count_private=true&include_all_commits=true&hide_border=true&theme=default"/>
-    </td>
-    <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyPrototypeWhat&show_icons=true&locale=en&layout=compact&hide_border=true&card_width=320&langs_count=6&theme=default"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MyPrototypeWhat&hide_border=true&theme=default"/>
-    </td>
-    <td>
-      <img height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyPrototypeWhat&theme=github"/>
-    </td>
-  </tr>
-</table>
+<img height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyPrototypeWhat&theme=github"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MyPrototypeWhat&style=flat)
 
