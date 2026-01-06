@@ -1,5 +1,5 @@
 # Hello, I'm MyPrototypeWhat 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyPrototypeWhat&theme=flat&title=-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-mu-nine.vercel.app/?theme=flat&title=-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 💭 Frontend developer passionate about creating useful tools and exploring new technologies.
