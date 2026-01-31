@@ -9,6 +9,7 @@
 ## Projects & Contributions
 
 ### My Projects
+- 🌊 **[Conflux](https://github.com/MyPrototypeWhat/Conflux)** - A unified AI Agent desktop client that brings Claude Code, Codex, Gemini CLI and other AI coding assistants together in one application.
 - 🛠️ [vite-plugin-svgr](https://github.com/MyPrototypeWhat/vite-plugin-svgr) - A Vite plugin that transforms SVGs into React components
 - 🔍 [npx-scope-finder](https://github.com/MyPrototypeWhat/npx-scope-finder) - CLI tool for discovering executable packages within npm scopes
 
