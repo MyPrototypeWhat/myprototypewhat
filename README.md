@@ -9,10 +9,9 @@
 ## Projects & Contributions
 
 ### My Projects
-- 🍳 [context-chef](https://github.com/MyPrototypeWhat/context-chef) - A context engineering library for AI agents with compression, tool pruning, memory, and multi-provider compilation
+- 🍳 [context-chef](https://github.com/MyPrototypeWhat/context-chef) [![npm downloads](https://img.shields.io/npm/dm/context-chef.svg)](https://www.npmjs.com/package/context-chef) - A context engineering library for AI agents with compression, tool pruning, memory, and multi-provider compilation
+- 🔍 [npx-scope-finder](https://github.com/MyPrototypeWhat/npx-scope-finder) [![npm downloads](https://img.shields.io/npm/dm/npx-scope-finder.svg)](https://www.npmjs.com/package/npx-scope-finder) - CLI tool for discovering executable packages within npm scopes
 - 🌊 [Conflux](https://github.com/MyPrototypeWhat/Conflux) - A unified AI Agent desktop client that brings Claude Code, Codex, Gemini CLI and other AI coding assistants together in one application.
-- 🛠️ [vite-plugin-svgr](https://github.com/MyPrototypeWhat/vite-plugin-svgr) - A Vite plugin that transforms SVGs into React components
-- 🔍 [npx-scope-finder](https://github.com/MyPrototypeWhat/npx-scope-finder) - CLI tool for discovering executable packages within npm scopes
 
 ### Open Source Contributions
 - 🍒 [cherry-studio](https://github.com/CherryHQ/cherry-studio) - Contributing to this desktop client that supports multiple LLM providers
