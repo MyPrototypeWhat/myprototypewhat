@@ -12,12 +12,12 @@
 - 🍳 [context-chef](https://github.com/MyPrototypeWhat/context-chef) [![npm downloads](https://img.shields.io/npm/dm/@context-chef/core.svg)](https://www.npmjs.com/package/@context-chef/core) - A context engineering monorepo for AI agents — `@context-chef/core` (history compression, tool pruning, memory, multi-provider) + `@context-chef/ai-sdk-middleware` (Vercel AI SDK drop-in integration)
 - 🔍 [npx-scope-finder](https://github.com/MyPrototypeWhat/npx-scope-finder) [![npm downloads](https://img.shields.io/npm/dm/npx-scope-finder.svg)](https://www.npmjs.com/package/npx-scope-finder) - CLI tool for discovering exkages within npm scopes
 - 🌊 [Conflux](https://github.com/MyPrototypeWhat/Conflux) - A unified AI Agent desktop client that brings Claude Code, Codex, Gemini CLI and other AI coding assistants together in one application.
+- 🔌 [`@mcpmarket/mcp-auto-install`](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) [![npm downloads](https://img.shields.io/npm/dm/@mcpmarket/mcp-auto-install.svg)](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) — MCP server that helps install other MCP servers automatically
 
 ### Open Source Contributions
 - 🍒 [cherry-studio](https://github.com/CherryHQ/cherry-studio) - Contributing to this desktop client that supports multiple LLM providers
   - [`@cherrystudio/ai-core`](https://www.npmjs.com/package/@cherrystudio/ai-core) [![npm downloads](https://img.shields.io/npm/dm/@cherrystudio/ai-core.svg)](https://www.npmjs.com/package/@cherrystudio/ai-core) — Unified AI provider interface based on Vercel AI SDK
   - [`@cherrystudio/ai-sdk-provider`](https://www.npmjs.com/package/@cherrystudio/ai-sdk-provider) [![npm downloads](https://img.shields.io/npm/dm/@cherrystudio/ai-sdk-provider.svg)](https://www.npmjs.com/package/@cherrystudio/ai-sdk-provider) — AI SDK provider bundle with CherryIN routing
-- 🔌 [`@mcpmarket/mcp-auto-install`](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) [![npm downloads](https://img.shields.io/npm/dm/@mcpmarket/mcp-auto-install.svg)](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) — MCP server that helps install other MCP servers automatically
 
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
