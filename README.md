@@ -12,8 +12,7 @@
 - 🍳 [context-chef](https://github.com/MyPrototypeWhat/context-chef) [![npm downloads](https://img.shields.io/npm/dm/@context-chef/core.svg)](https://www.npmjs.com/package/@context-chef/core) - A context engineering monorepo for AI agents — `@context-chef/core` (history compression, tool pruning, memory, multi-provider) + `@context-chef/ai-sdk-middleware` (Vercel AI SDK drop-in integration)
 - 📚 [refkit](https://github.com/refkitjs/refkit) [![npm downloads](https://img.shields.io/npm/dm/@refkit/core.svg)](https://www.npmjs.com/package/@refkit/core) — License-normalized reference retrieval for creative tools and agents — search images, video, audio, and text across pluggable sources via TypeScript SDK or MCP.
 - 🔍 [npx-scope-finder](https://github.com/MyPrototypeWhat/npx-scope-finder) [![npm downloads](https://img.shields.io/npm/dm/npx-scope-finder.svg)](https://www.npmjs.com/package/npx-scope-finder) - CLI tool for discovering exkages within npm scopes
-- 🌊 [Conflux](https://github.com/MyPrototypeWhat/Conflux) - A unified AI Agent desktop client that brings Claude Code, Codex, Gemini CLI and other AI coding assistants together in one application.
-- 🔌 [`@mcpmarket/mcp-auto-install`](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) [![npm downloads](https://img.shields.io/npm/dm/@mcpmarket/mcp-auto-install.svg)](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) — MCP server that helps install other MCP servers automatically
+- 🔌 [`@mcpmarket/mcp-auto-install`](https://github.com/CherryHQ/mcpmarket) [![npm downloads](https://img.shields.io/npm/dm/@mcpmarket/mcp-auto-install.svg)](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) — MCP server that helps install other MCP servers automatically
 
 ### Open Source Contributions
 - 🍒 [cherry-studio](https://github.com/CherryHQ/cherry-studio) - Contributing to this desktop client that supports multiple LLM providers
