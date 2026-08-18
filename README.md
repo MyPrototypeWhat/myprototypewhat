@@ -15,7 +15,7 @@
 - 🔌 [`@mcpmarket/mcp-auto-install`](https://github.com/CherryHQ/mcpmarket) [![npm downloads](https://img.shields.io/npm/dm/@mcpmarket/mcp-auto-install.svg)](https://www.npmjs.com/package/@mcpmarket/mcp-auto-install) — MCP server that helps install other MCP servers automatically
 
 ### Open Source Contributions
-- 🍒 [cherry-studio](https://github.com/CherryHQ/cherry-studio) - Contributing to this desktop client that supports multiple LLM providers
+- 🍒 [cherry-studio](https://github.com/CherryHQ/cherry-studio) - Core maintainer of @CherryHQ/cherry-studio, focused on chat/message architecture, MCP integrations, search, performance, and release stability.
   - [`@cherrystudio/ai-core`](https://www.npmjs.com/package/@cherrystudio/ai-core) [![npm downloads](https://img.shields.io/npm/dm/@cherrystudio/ai-core.svg)](https://www.npmjs.com/package/@cherrystudio/ai-core) — Unified AI provider interface based on Vercel AI SDK
   - [`@cherrystudio/ai-sdk-provider`](https://www.npmjs.com/package/@cherrystudio/ai-sdk-provider) [![npm downloads](https://img.shields.io/npm/dm/@cherrystudio/ai-sdk-provider.svg)](https://www.npmjs.com/package/@cherrystudio/ai-sdk-provider) — AI SDK provider bundle with CherryIN routing
 
