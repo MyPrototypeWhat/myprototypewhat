@@ -30,7 +30,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ## Blog
-📝 [Context Engineering Series](https://myprototypewhat.cn) — 8-part deep dive into building a context compiler for AI agents, covering history compression, tool pruning, VFS offloading, memory, snapshot/restore, provider adapters, and pipeline hooks.
+📝 Context Engineering Series — 8-part deep dive into building a context compiler for AI agents, covering history compression, tool pruning, VFS offloading, memory, snapshot/restore, provider adapters, and pipeline hooks.
 
 ## GitHub Stats
 
